@@ -1,0 +1,6 @@
+*.log
+*.pyc
+*.dat
+/.extra
+/.vs
+/worldcup/debug
